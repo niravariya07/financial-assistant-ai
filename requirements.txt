@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+plotly
+streamlit-on-Hover-tabs
+vaderSentiment
+seaborn
+sckit-learn
+phidata
+yfinance
+groq
+duckduckgo-search
+dotenv
+google-genai

@@ -5,9 +5,7 @@ def translate(text, lang):
 translations = {
     'English': {
         'Budget Planner': 'Budget Planner',
-        'Please Login to continue.': 'Please Login to continue.',
-        'Username': 'Username',
-        'Password': 'Password',
+        'Please Login to continue.': 'Please Login to continue.',        'Password': 'Password',
         'Login': 'Login',
         'Login Successful!':'Login Successful!',
         'Logout': 'Logout',

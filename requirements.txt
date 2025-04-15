@@ -5,7 +5,7 @@ plotly
 streamlit-on-Hover-tabs
 vaderSentiment
 seaborn
-sckit-learn
+scikit-learn
 phidata
 yfinance
 groq
